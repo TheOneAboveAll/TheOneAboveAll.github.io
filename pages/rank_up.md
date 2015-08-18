@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: Rank Up
-permalink: /rankup/
+permalink: /rank_up/
 ---
 
 # Rank up
@@ -26,8 +26,8 @@ A couple of 2-Star rank-ups or a single rank-up from a 3-Star covers the necessa
 - Take a 4-Star to Rank 5 10000 PTS
 
 ## Rewards
-- 1000 PTS: 2xTier3 Basic ISO-8 5xPym Canister
-- 1500 PTS: 100 Loyalty 500 Battle Chips 5xPym Canister
-- 2000 PTS: 2500 Gold 5xPym Canister
-- 4000 PTS: 1x2-Star Crystal 5xPym Canister
-- 6000 PTS: 1xPremium Crystal 5xPym Canister
+- 1000 PTS: 2xTier3 Basic ISO-8
+- 1500 PTS: 100 Loyalty 500 Battle Chips
+- 2000 PTS: 2500 Gold
+- 4000 PTS: 1x2-Star Crystal
+- 6000 PTS: 1xPremium Crystal

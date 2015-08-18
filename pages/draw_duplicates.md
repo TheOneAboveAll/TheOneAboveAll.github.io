@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: Draw Duplicates
-permalink: /drawduplicates/
+permalink: /draw_duplicates/
 ---
 
 # Draw Duplicates
@@ -54,8 +54,8 @@ In order for you not to collect the Hero but still use the ‘Claim Max’, just
 - Get a 4-Star Duplicate 1000 PTS
 
 ## Rewards
-- 250 PTS: 1xTier 3 Skill ISO-8 5xPym Canister
-- 500 PTS: 100 Loyalty 500 Battle Chips 5xPym Canister
-- 1000 PTS: 2500 Gold 5xPym Canister
-- 1500 PTS: 1xPremium Crystal 5xPym Canister
-- 4000 PTS: 1xPremium Crystal 5xPym Canister
+- 250 PTS: 1xTier 3 **Class** ISO-8
+- 500 PTS: 100 Loyalty 500 Battle Chips
+- 1000 PTS: 2500 Gold
+- 1500 PTS: 1xPremium Crystal
+- 4000 PTS: 1xPremium Crystal

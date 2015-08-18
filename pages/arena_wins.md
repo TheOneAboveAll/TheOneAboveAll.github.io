@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: Arena Wins
-permalink: /arenawins/
+permalink: /arena_wins/
 ---
 
 # Arena Wins
@@ -25,8 +25,8 @@ That’s 13 individual victories against 3-Stars that net you the required 500 p
 - Win an Arena Fight against a 4-Star 60 PTS
 
 ## Rewards
-- 5000 PTS: 1xTier 3 Cosmic ISO-8 5xPym Canister 
-- 10000 PTS: 100 Loyalty 500 Battle Chips 5xPym Canister 
-- 15000 PTS: 2500 Gold 5xPym Canister 
-- 30000 PTS: 1xTier 2 Mutant, Skill, Science, Mystic, Cosmic, Tech ISO-8 5xPym Canister
-- 40000 PTS: 1xTier 3 Mutant, Skill, Science, Mystic, Cosmic, Tech ISO-8 5xPym Canister
+- 5000 PTS: 1xTier 3 **Class** ISO-8 
+- 10000 PTS: 100 Loyalty 500 Battle Chips 
+- 15000 PTS: 2500 Gold 
+- 30000 PTS: 1xTier 2 Mutant, Skill, Science, Mystic, Cosmic, Tech ISO-8
+- 40000 PTS: 1xTier 3 Mutant, Skill, Science, Mystic, Cosmic, Tech ISO-8

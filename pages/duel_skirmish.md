@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: Duel Skirmish
-permalink: /duelskirmish/
+permalink: /duel_skirmish/
 ---
 
 # Duel Skirmish

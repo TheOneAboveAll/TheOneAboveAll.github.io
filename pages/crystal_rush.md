@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: Crystal Rush
-permalink: /crystalrush/
+permalink: /crystal_rush/
 ---
 
 # Crystal Rush
@@ -19,3 +19,22 @@ This event has crappy rewards, and the Alliance is saving Crystals for the BIG E
 ## Reminder
 NEVER use 2-Star Crystals (or 3-Star or 4-Star) or anything else that gives possible dupes. 
 It’s completely not worth it. Yes, they give plenty of points, but they are also the only possible way of scoring on Dupe day. Save those for that day.
+
+## Rules
+- Open a Quest or Versus Crystal 25 PTS
+- Open a Free Crystal 50 PTS
+- Open a Arena or 2-Star Hero Crystal 100 PTS
+- Open a Daily, Alliance, or Golden Crystal 200 PTS
+- Open a Lesser Ascendant Crystal 300 PTS
+- Open a Hero Crystal 500 PTS
+- Open a Premium Hero Crystal 1000 PTS
+- Open a Featured Hero Crystal 1500 PTS
+- Open a 3-Star Hero Crystal 4000 PTS
+- Open a 4-Star Hero Crystal 25000 PTS
+
+## Rewards
+- 10000 PTS: 1x Tier 3 **Class** ISO-8
+- 15000 PTS: 100 Loyalty 500 Battle Chips
+- 20000 PTS: 2500 Gold 
+- 30000 PTS: 1x Lesser Champion Boost
+- 40000 PTS: 1x Champion Boost
