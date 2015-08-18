@@ -97,7 +97,7 @@ function buildEventsHtml(events) {
             }
         }
 
-        output += "<li class=\"" + event.code + " " + lengthWord.toLowerCase() + "-event\"><div>" + event.name + " <span class=\"length\">[" + lengthWord + " Event]</span><br /><span class=\"message\">" + message + "</span></div></li>";
+        output += "<li class=\"" + event.code + " " + lengthWord.toLowerCase() + "-event\"><div><span class=\"length\">" + event.name + " </span><span class=\"length\">[" + lengthWord + " Event]</span><br /><span class=\"message\">" + message + "</span></div></li>";
     }
 
     return output;
