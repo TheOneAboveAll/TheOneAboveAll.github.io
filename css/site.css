@@ -1,0 +1,55 @@
+ul.tips > li {
+	margin-bottom: 12pt;
+}
+
+ul#eventList {
+	padding: 0;
+	min-height: 310px;
+}
+
+ul#eventList > li {
+	display: block;
+	list-style: none;
+	margin: 6pt 0pt 6pt 0pt;
+	height: 74px;
+	background-size: 300px 74px;
+}
+
+ul#eventList > li.spacer {
+	display: block;
+	list-style: none;
+	margin: 12pt 0pt 12pt 0pt;
+	height: auto;
+}
+
+ul#eventList > li > div {
+	height: 62px;
+	background-color: rgba(32, 32, 32, .75);
+	padding: 8px 4px 4px 12px;
+	font-size: 1.25em;
+	font-weight: bold;
+}
+
+ul#eventList > li > div > span.length {
+	font-size: 0.85em;
+	color: #eeeeee;
+}
+
+ul#eventList > li > div > span.message {
+	font-size: 0.7em;
+	color: #eeeeee;
+}
+
+ul#eventList > li.de-cr { background-image: url('img/events/de-cr.png') }
+ul#eventList > li.de-ru { background-image: url('img/events/de-ru.png') }
+ul#eventList > li.de-dd { background-image: url('img/events/de-dd.png') }
+ul#eventList > li.de-qc { background-image: url('img/events/de-qc.png') }
+ul#eventList > li.de-ds { background-image: url('img/events/de-ds.png') }
+ul#eventList > li.de-aw { background-image: url('img/events/de-aw.png') }
+ul#eventList > li.de-cs { background-image: url('img/events/de-cs.png') }
+
+ul#eventList > li.td-c   { background-image: url('img/events/td-c.png') }
+ul#eventList > li.td-cc  { background-image: url('img/events/td-cc.png') }
+ul#eventList > li.td-rup { background-image: url('img/events/td-rup.png') }
+ul#eventList > li.td-ps  { background-image: url('img/events/td-ps.png') }
+ul#eventList > li.td-ac  { background-image: url('img/events/td-ac.png') }
