@@ -46,3 +46,16 @@ If a 3-day Dupe day is coming along, save it for that instead, since we usually 
 
 **Tip**: When gathering ISO/Catalysts for your heroes, you can accidentaly claim your Arena hero by clicking the ‘Claim Max’ button. 
 In order for you not to collect the Hero but still use the ‘Claim Max’, just click the filter icon (lower right), click Filter (again), slide down and press the catalyst and/or ISO 8 filters. That way, the character will not be presented on the list, and you can click the ‘claim all’ safely.
+
+## Rules
+- Get a 1-Star Duplicate 5 PTS
+- Get a 2-Star Duplicate 10 PTS
+- Get a 3-Star Duplicate 100 PTS
+- Get a 4-Star Duplicate 1000 PTS
+
+## Rewards
+- 250 PTS: 1xTier 3 Skill ISO-8 5xPym Canister
+- 500 PTS: 100 Loyalty 500 Battle Chips 5xPym Canister
+- 1000 PTS: 2500 Gold 5xPym Canister
+- 1500 PTS: 1xPremium Crystal 5xPym Canister
+- 4000 PTS: 1xPremium Crystal 5xPym Canister

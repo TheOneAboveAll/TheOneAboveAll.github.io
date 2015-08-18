@@ -26,6 +26,22 @@ Total: 65 points per fight, with a total of 650 points over the 10 possible figh
 ## Objective:
 10.000 Milestone is the main objective. 17.500 is the optimal but requires that EVERYONE do the Duels.
 
+## Rules
+- Featured Champion: FEATURED CHAMPION 5 PTS
+- Start a Duel 5 PTS
+- Additional points for beating a 1-Star opponent 5 PTS
+- Additional points for beating a 2-Star opponent 15 PTS
+- Additional points for beating a 3-Star opponent 35 PTS
+- Additional points for beating a 4-Star opponent 55 PTS
+
+## Rewards
+- 750 PTS: 1xTier 3 Mystic ISO-8 5xPym Canister
+- 2000 PTS: 100 Loyalty 500 Battle Chips 5xPym Canister
+- 5000 PTS: 2500 Gold 5xPym Canister
+- 10000 PTS: 1xPremium Crystal 5xPym Canister
+- 17500 PTS: 1xPremium Crystal 5xPym Canister
+
+
 ### 4* Champ players to Duel
 I’ll try to keep this as updated as possible.
 
