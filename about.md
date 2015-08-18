@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: layout
 title: About
 permalink: /about/
@@ -21,7 +21,7 @@ However, we also know real life is more important than the game so please highli
 * Lack of activity over multiple events will get you kicked
 
 ### Note:
-You don’t need to save every single crystal, just try to save what you can. 
+You don't need to save every single crystal, just try to save what you can. 
 If you have a bunch of Premiums and 3-Star Crystals, sure, open a few ones. 
 The idea here is that, if we all try to save most of the crystals, we will be able to complete Bigger Events and get Better rewards! 
-Don’t suffer unnecessarily! Participate in the events and try to do your part - we are in this together, we save together! =)
+Don't suffer unnecessarily! Participate in the events and try to do your part - we are in this together, we save together! =)
