@@ -1,4 +1,21 @@
+#
+# This file contains configuration flags to customize your site
+#
+
 auto: true
 markdown: rdiscount
 pygments: true
-permalink: /blog/:title
+permalink: /:title
+
+# Name of your site (displayed in the header)
+name: "[leeee]The One's Above All"
+
+# Short bio or description (displayed in the header)
+description: The best Marvel Contest of Champions alliance
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://i.annihil.us/u/prod/marvel/i/mg/7/00/54834ddf46f18/portrait_marvelous.jpg
+
+# Enter your Disqus shortname (not your username) to enable commenting on posts
+# You can find your shortname on the Settings page of your Disqus account
+disqus: theoneaboveall
