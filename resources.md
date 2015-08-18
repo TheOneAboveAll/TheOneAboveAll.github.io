@@ -1,7 +1,7 @@
 ---
 layout: layout
-title: Events
-permalink: /events/
+title: Resources
+permalink: /resources/
 ---
 
 ## Resources
