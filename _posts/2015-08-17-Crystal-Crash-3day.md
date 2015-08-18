@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Crystal Crash 3 Days Event
-tags: [crystal]
+tags: crystal
 comments: true
 published: true
+image: td-cc.png
 ---
 
 CRYSTAL IS COMING UP, you all already know how to roll with this:
