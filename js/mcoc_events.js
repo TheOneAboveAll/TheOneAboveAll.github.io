@@ -89,11 +89,8 @@ function buildEventsHtml(events) {
             else if (moment(localTime).add(1, 'days').isSame(startDate, 'day') == true) {
                 message = "starts tomorrow";
             }
-            else if (startDate.diff(localTime, 'days') < 6) {
-                message = "starts " + startDate.format("dddd MMMM D");
-            }
             else {
-                message = "starts " + startDate.format("MMMM D");
+                message = "starts " + startDate.format("dddd MMMM D");
             }
         }
 
