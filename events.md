@@ -15,14 +15,14 @@ permalink: /events/
 * Saturday: Tech
 * Sunday: Free-for-All
 
-### Daily Event Schedule
-* Monday - Rank Up
-* Tuesday - Class Specialist
-* Wednesday - Draw Duplicates
-* Thursday - Quest Completion
-* Friday - Duel Skirmish 
-* Saturday - Crystal Rush
-* Sunday - Arena Wins
+### Daily Event Schedule (Recommended points each member)
+* Monday - Rank Up (200 points)
+* Tuesday - Class Specialist (8500 points)
+* Wednesday - Draw Duplicates (50 points)
+* Thursday - Quest Completion (200 points)
+* Friday - [Duel Skirmish]({{ site.baseurl }}/duelskirmish) - 650 points
+* Saturday - Crystal Rush (500 points)
+* Sunday - Arena Wins (500 points)
 
 ### 3 Day Event Schedule
 * Completion
