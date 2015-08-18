@@ -11,7 +11,7 @@ function buildEventsList(data, startData, sevenDayStartData) {
 
     var currentDate = moment(startData.date);
     var nextStartDate = moment(currentDate);
-    var stopDate = moment.utc().startOf('day').add(10, 'days');
+    var stopDate = moment.utc().startOf('day').add(7, 'days');
 
     data = data.concat(data.splice(0, startData.index));
 
@@ -74,7 +74,7 @@ function buildEventsHtml(events) {
                 message = "ends tomorrow";
             }
             else {
-                message = "ends " + endDate.format("dddd");
+                message = "ends " + endDate.format("dddd MMMM D");
             }
         }
         else {
@@ -90,7 +90,7 @@ function buildEventsHtml(events) {
                 message = "starts tomorrow";
             }
             else if (startDate.diff(localTime, 'days') < 6) {
-                message = "starts " + startDate.format("dddd");
+                message = "starts " + startDate.format("dddd MMMM D");
             }
             else {
                 message = "starts " + startDate.format("MMMM D");
