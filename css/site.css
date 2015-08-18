@@ -97,3 +97,39 @@ ul#eventList > li.td-ac  { background-image: url('/img/events/td-ac.png') }
   top: 50%;
   display: inline-block;
   margin-top: -20px;
+  
+/* Utility */
+.chromeframe {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+.clear{
+  clear:both;
+}
+.bg-fixed {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.clearfix:after { 
+ content: "."; 
+ visibility: hidden; 
+ display: block; 
+ height: 0; 
+ clear: both;
+}
+.no-list{
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+.break{
+  padding-bottom: 1em;
+  clear: both;
+}  
