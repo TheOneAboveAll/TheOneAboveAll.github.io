@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Rank Up 7 Day Event
-tags: [rankup]
+tags: rankup
 comments: true
+image: td-rup.png
 ---
 
 Rank up 1 Stars if you can for the 7-day Rank up event! 1 Stars are really EASY and CHEAP to level
