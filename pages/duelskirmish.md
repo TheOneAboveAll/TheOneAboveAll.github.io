@@ -4,17 +4,17 @@ title: Duel Skirmish
 permalink: /duelskirmish/
 ---
 
-## Duel Skirmish
+### Duel Skirmish
 Score per player: 650
 
-### Daily event:
+## Daily event:
 
 * You need to log in twice for this event. Duel credits refresh at the middle of the event, and you should strive to do 5 Duels when it starts, and another 5 Duels after the Duel Credits refresh. 
 * You are not restricted to Dueling Alliance members. You can Duel anyone by going into their profile or by using the search function: Click your Mailbox icon (lower left) -> friends -> search. Type their name
 * Check the Alliance chat: We will always communicate how to find the Featured Champion. You should always strive to attack a 4-Star Featured Champion. 
 I always have a list of champs below. I’ll try to update it as we go.
 
-### Scoring:
+## Scoring:
 You should strive to score the highest possible score per fight. That’s:
 
 * 5 points for starting a Fight
@@ -23,35 +23,40 @@ You should strive to score the highest possible score per fight. That’s:
 
 Total: 65 points per fight, with a total of 650 points over the 10 possible fights (5 + 5).
 
-### Objective:
+## Objective:
 10.000 Milestone is the main objective. 17.500 is the optimal but requires that EVERYONE do the Duels.
 
-### 4* Champ players to Duel
+## 4* Champ players to Duel
 I’ll try to keep this as updated as possible.
 
 #### Tech
-Iron Man: Fury6 - 1/1
-Rocket Racoon: Jordie3401 - 1/5
-Star-Lord: Harkanork - 1/1
+- Iron Man: Fury6 - 1/1
+- Rocket Racoon: Jordie3401 - 1/5
+- Star-Lord: Harkanork - 1/1
+
 #### Mutant
-Colossus: Luc27hman - 1/10
-Storm: 24gcy uh557 5hr - 1/4
+- Colossus: Luc27hman - 1/10
+- Storm: 24gcy uh557 5hr - 1/4
+
 #### Skill
-Hawkeye: 21jr - 1/2
-Black Panther: Car 12 - 1/1
-Punisher: Catalog - 1/7
+- Hawkeye: 21jr - 1/2
+- Black Panther: Car 12 - 1/1
+- Punisher: Catalog - 1/7
+
 #### Science
-Cpt. America: Fiz 91 1/1
-Hulk: Clare 2000 - 1/5
-Electro: overlord99 - 1/2
+- Cpt. America: Fiz 91 1/1
+- Hulk: Clare 2000 - 1/5
+- Electro: overlord99 - 1/2
+
 #### Mystic
-Magik: Green man 33 - 1/1
-Juggernaut: Moushenn - 1/1
-Dr Strange: Batman6732 ; [Jar] betarakresna 1/10
+- Magik: Green man 33 - 1/1
+- Juggernaut: Moushenn - 1/1
+- Dr Strange: Batman6732 ; [Jar] betarakresna 1/10
+
 #### Cosmic
-Drax: annarosa - 1/1
-Cpt. Marvel: Stefen35678521 - 1/7
-Miss Marvel: Shinibi - 1/1
-Thor: project Cars187 - 1/6
+- Drax: annarosa - 1/1
+- Cpt. Marvel: Stefen35678521 - 1/7
+- Miss Marvel: Shinibi - 1/1
+- Thor: project Cars187 - 1/6
 
 Source: https://www.reddit.com/r/ContestOfChampions/comments/3aehiw/who_do_you_duel/
