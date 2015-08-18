@@ -4,7 +4,7 @@ title: Arena Wins
 permalink: /arenawins/
 ---
 
-### Arena Wins
+# Arena Wins
 Minimum points required per player: 500 points
 Average points for last Milestone: 1350 points
 

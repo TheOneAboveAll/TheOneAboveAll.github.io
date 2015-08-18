@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## About us
+# About us
 
 The One's Above All is the best alliance for players who want to take their game-play to the next level.
 

@@ -4,7 +4,7 @@ title: Crystal Rush
 permalink: /crystalrush/
 ---
 
-### Crystal Rush
+# Crystal Rush
 Minimum points per player: if third Milestone has been reached: save the crystals, use a single free crystal (4hours crystals) just to show your support.
 Average points for Second-Third Milestone (Gold): 500-650 points 
 

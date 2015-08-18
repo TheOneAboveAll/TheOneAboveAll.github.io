@@ -4,7 +4,7 @@ title: Duel Skirmish
 permalink: /duelskirmish/
 ---
 
-### Duel Skirmish
+# Duel Skirmish
 Score per player: 650
 
 ## Daily event:
@@ -26,7 +26,7 @@ Total: 65 points per fight, with a total of 650 points over the 10 possible figh
 ## Objective:
 10.000 Milestone is the main objective. 17.500 is the optimal but requires that EVERYONE do the Duels.
 
-## 4* Champ players to Duel
+### 4* Champ players to Duel
 I’ll try to keep this as updated as possible.
 
 #### Tech
