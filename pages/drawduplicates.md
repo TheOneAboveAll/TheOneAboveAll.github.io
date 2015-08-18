@@ -10,7 +10,9 @@ permalink: /drawduplicates/
 This event tries to make us waste resources for the last Milestone. Our main objective is the first Premium Crystal Milestone. 
 That said, if you have Arena Rewards dupes, open some dupes through Arena Crystals, or simply have a good stock of Premium Crystals, you can open a few more. But please constrain yourself
 
-#### Maximum Score per player: around 200 or 300...try not to go very high, save your crystals. Never open 3 and 4-Stars!
+#### Maximum Score per player: around 200 or 300
+Try not to go very high, save your crystals. Never open 3 and 4-Stars!
+
 #### Minimum points per player if third Milestone has been reached: 0
 
 If the last milestone was, by some chance, reached, don’t waste any more points. Save those crystals. 
