@@ -2,7 +2,10 @@
 layout: layout
 title: "[leeee]The One's Above All"
 ---
-{% for post in site.posts offset: 0 limit: 50 %}
+{% for post in site.posts offset: 0 limit: 10 %}
+{% capture postyear %}{{ post.date | date: '%Y' }}{% endcapture %}
+{% capture curryear %}{{ site.time | date: '%Y' }}{% endcapture %}  
+{% if postyear == curryear %}
 <div class="row">
   <div class="span7">    
     <div class="row">
@@ -27,5 +30,6 @@ title: "[leeee]The One's Above All"
 	<hr>
   </div>
 </div>
+{% endif %}
 {% endfor %}	
 			
