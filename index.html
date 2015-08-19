@@ -17,7 +17,14 @@ title: "[leeee]The One's Above All"
       <div class="span5">
 		<h4><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></h4>      
         <p>
-          {{ post.content | strip_html | truncatewords:75 }}
+          <!--{{ post.content | strip_html | truncatewords:75 }}-->
+          {{ post.excerpt }} 
+          {% capture content_words %} 
+            {{ post.content | 75 }} 
+          {% endcapture %}
+          {% capture excerpt_words %}
+            {{ post.excerpt | 75 }} 
+          {% endcapture %}
         </p>
 		<p>
           <i class="icon-calendar"></i> {{ post.date | date: "%B %e, %Y" }}
