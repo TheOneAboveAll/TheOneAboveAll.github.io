@@ -7,7 +7,7 @@ published: true
 image: sneak-preview.jpg
 ---
 
-# 2015/08/17 PREVIEW - Upcoming Balance Changes
+### 2015/08/17 PREVIEW - Upcoming Balance Changes
 
 ## Overview
 This batch of character changes and updates is aimed to bring a few characters up on the power curve and to fix several issues that players have experienced during gameplay, particularly when fighting in Alliance Quests. Bringing Armor Break, Regeneration, and Unstoppable in line with other effects is a major focus, in particular when used by the AI. Community feedback has been very helpful, and you may even find some of your ideas from our previous Character Balance Preview show up below. Some upcoming changes, such as those for Captain America, are more significant and will be coming at a later date.
