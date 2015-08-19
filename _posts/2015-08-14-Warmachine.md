@@ -9,4 +9,4 @@ image: warmachine.jpg
 
 Col. James Rhodes "borrowed" some armor from Tony Stark to become the War Machine!
 
-[<img src="{{ site.baseurl }}/images/warmachine.jpg"/>]
+![My helpful screenshot]({{ site.url }}/assets/warmachine.jpg)
