@@ -7,6 +7,8 @@ markdown: rdiscount
 pygments: true
 permalink: /:title
 
+paginate: 5
+
 # Name of your site (displayed in the header)
 name: "[leeee]The One's Above All"
 
@@ -19,5 +21,3 @@ avatar: https://i.annihil.us/u/prod/marvel/i/mg/7/00/54834ddf46f18/portrait_marv
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus: theoneaboveall
-
-paginate: 3
