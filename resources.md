@@ -1,5 +1,5 @@
 ---
-layout: menu
+layout: empty
 title: Resources
 permalink: /resources/
 ---

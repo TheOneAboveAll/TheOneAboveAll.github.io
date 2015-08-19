@@ -7,7 +7,7 @@ markdown: rdiscount
 pygments: true
 permalink: /:title
 
-paginate: 7
+paginate: 6
 paginate_path: "/page:num"
 
 # Name of your site (displayed in the header)
