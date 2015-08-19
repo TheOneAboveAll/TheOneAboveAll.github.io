@@ -11,7 +11,7 @@ Level 36 Rating 33955
 
 ## Officers
 
-### Anthony6572
+<span class="label label-info">Anthony6572</span>
 Level 50 Rating 94849
 
 ### nekrocanble
