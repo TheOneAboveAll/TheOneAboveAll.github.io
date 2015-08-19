@@ -8,6 +8,7 @@ pygments: true
 permalink: /:title
 
 paginate: 5
+paginate_path: "/page:num"
 
 # Name of your site (displayed in the header)
 name: "[leeee]The One's Above All"
