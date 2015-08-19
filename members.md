@@ -5,17 +5,17 @@ permalink: /members/
 ---
 
 ## Leader
-The 1 above all <span class="label label-info">Level 36 Rating 33955</span>
+The 1 above all
 
 ## Officers
 
-- Anthony6572 <span class="label label-info">Level 50 Rating 94849</span>
-- nekrocanble <span class="label label-info">Level 47 Rating 50234</span>
-- jdm42181 <span class="label label-info">Level 47 Rating 43505</span>
-- DhamonGrimwulf Level 43 Rating 39636
-- Boblushr Level 43 Rating 32498
-- Angelkay168  Level 36 Rating 28469
-- BluDvls Level 35 Rating 25838
+- Anthony6572
+- nekrocanble
+- jdm42181
+- DhamonGrimwulf
+- Boblushr
+- Angelkay168
+- BluDvls
 
 ## Members
 * Combat_squishy
@@ -34,8 +34,6 @@ The 1 above all <span class="label label-info">Level 36 Rating 33955</span>
 * Yoges
 * ~TheDarkKnight~
 * ttttubby
-* K001!
 * LesRoches
-* Mdity
 * Alliegirl
 * MacTeNakA
