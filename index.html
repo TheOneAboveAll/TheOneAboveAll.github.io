@@ -2,7 +2,7 @@
 layout: layout
 title: "[leeee]The One's Above All"
 ---
-{% for post in site.posts offset: 0 limit: 10 %}
+{% for post in site.posts offset: 0 limit: 3 %}
 {% capture postyear %}{{ post.date | date: '%Y' }}{% endcapture %}
 {% capture curryear %}{{ site.time | date: '%Y' }}{% endcapture %}  
 {% if postyear == curryear %}
@@ -18,13 +18,7 @@ title: "[leeee]The One's Above All"
 		<h4><strong><a href="{{ post.url }}">{{ post.title }}</a></strong></h4>      
         <p>
           <!--{{ post.content | strip_html | truncatewords:75 }}-->
-          {{ post.excerpt }} 
-          {% capture content_words %} 
-            {{ post.content | 75 }} 
-          {% endcapture %}
-          {% capture excerpt_words %}
-            {{ post.excerpt | 75 }} 
-          {% endcapture %}
+          {{ post.content | truncatewords:75 }}
         </p>
 		<p>
           <i class="icon-calendar"></i> {{ post.date | date: "%B %e, %Y" }}
