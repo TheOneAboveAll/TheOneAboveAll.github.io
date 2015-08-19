@@ -4,15 +4,13 @@ title: Members
 permalink: /members/
 ---
 
-## Leader
+<span class="label label-default">The 1 above all</span>
+<span class="label label-primary">Leader</span>
+<span class="label label-info">Level 36 Rating 33955</span>
 
-### The 1 above all
-Level 36 Rating 33955
-
-## Officers
-
-<span class="label label-info">Anthony6572</span>
-Level 50 Rating 94849
+<span class="label label-default">Anthony6572</span>
+<span class="label label-success">Officers</span>
+<span class="label label-info">Level 50 Rating 94849</span>
 
 ### nekrocanble
 Level 47 Rating 50234
