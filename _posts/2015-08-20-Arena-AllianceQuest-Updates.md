@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Character Balance Changes Preview
+title: Arena and Alliance Quest Updates
 tags: arena alliancequest
 comments: true
 published: true
