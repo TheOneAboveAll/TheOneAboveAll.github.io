@@ -26,7 +26,7 @@ permalink: /7d_rank_up_push/
 - 25000  PTS: 25 Units
 - 50000  PTS: 5x Tier 4 Basic ISO-8
 - 75000  PTS: 1x Level 1 Alliance Health Potion
-- 100000 PTS: 1000 Loyalty 5000 Battle Chips
+- 100000 PTS: 1000 Loyalty, 5000 Battle Chips
 - 150000 PTS: 2x Golden Crystal
 - 200000 PTS: 1x Armament Crystal
 - 300000 PTS: 1x 3* Yellowjacket

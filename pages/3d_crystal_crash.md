@@ -23,8 +23,8 @@ The Officers always decide if we go for an event or not. That said, we are savin
 
 
 ## Rewards
-- 45000   PTS: 1x Attack Boost 1x Health Boost
-- 100000  PTS: 5x Tier 3 ISO-8 2500 Gold
+- 45000   PTS: 1x Attack Boost, 1x Health Boost
+- 100000  PTS: 5x Tier 3 ISO-8, 2500 Gold
 - 250000  PTS: 25 Units
 - 500000  PTS: 1x Tier 3 Basic Catalyst, 2x Tier 2 Basic Catalyst, 3x Tier 1 Basic Catalyst
 - 750000  PTS: 2x Premium Hero Crystal

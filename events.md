@@ -24,12 +24,14 @@ permalink: /events/
 * Saturday - [Crystal Rush]({{ site.baseurl }}/crystal_rush) - 500 points
 * Sunday - [Arena Wins]({{ site.baseurl }}/arena_wins) - 500 points
 
+* Extra on Saturday - [Defeat Ultron]({{ site.baseurl }}/defeat_ultron)
+
 ## 3 days Events
 * [Completion]({{ site.baseurl }}/3d_completion)
 * Rank Up Push
 * [Arena Combat]({{ site.baseurl }}/3d_arena_combat)
 * [Crystal Crash]({{ site.baseurl }}/3d_crystal_crash)
-* Perfect Series
+* [Perfect Series]({{ site.baseurl }}/3d_perfect_series)
 
 ## 7 days Events
 * [Rank Up Push]({{ site.baseurl }}/7d_rank_up_push)

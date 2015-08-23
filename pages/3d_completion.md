@@ -24,9 +24,9 @@ permalink: /3d_completion/
 - Complete a "MYSTERY IN THE MICROREALMS" Chapter 2 Quest 150 PTS
 
 ## Rewards
-- 5000   PTS: 1xAttack Boost 1xHealth Boost 10xPym Canister
-- 10000  PTS: 5xTier 3 Basic ISO-8 2500 Gold 10xPym Canister
-- 30000  PTS: 25 Units 10xPym Canister
-- 75000  PTS: 1xTier 3 Basic Catalyst 2xTier 2 Basic Catalyst 3xTier 1 Basic Catalyst 10xPym Canister
-- 150000 PTS: 2xPremium Crystal 10xPym Canister
-- 300000 PTS: 1xTier 1 Alpha Catalyst 20xPym Canister
+- 5000   PTS: 1xAttack Boost 1xHealth Boost
+- 10000  PTS: 5xTier 3 Basic ISO-8 2500 Gold
+- 30000  PTS: 25 Units
+- 75000  PTS: 1xTier 3 Basic Catalyst 2xTier 2 Basic Catalyst 3xTier 1 Basic Catalyst
+- 150000 PTS: 2xPremium Crystal
+- 300000 PTS: 1xTier 1 Alpha Catalyst

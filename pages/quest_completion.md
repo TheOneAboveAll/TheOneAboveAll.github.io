@@ -24,8 +24,8 @@ permalink: /quest_completion/
 - Complete a "MYSTERY IN THE MICROREALMS" Chapter 2 Quest 150 PTS
 
 ## Rewards
-- 1000 PTS: 1xTier 3 **Class** ISO-8 5xPym Canister
-- 2000 PTS: 100 Loyalty 500 Battle Chips 5xPym Canister
-- 3000 PTS: 2500 Gold 5xPym Canister
-- 4500 PTS: 3xTier 1 Basic Catalyst 5xPym Canister
-- 6000 PTS: 2xTier 2 Basic Catalyst 5xPym Canister
+- 1000 PTS: 1xTier 3 **Class** ISO-8
+- 2000 PTS: 100 Loyalty 500 Battle Chips
+- 3000 PTS: 2500 Gold
+- 4500 PTS: 3xTier 1 Basic Catalyst
+- 6000 PTS: 2xTier 2 Basic Catalyst
