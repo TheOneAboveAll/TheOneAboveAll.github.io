@@ -1,7 +1,7 @@
 ---
 layout: layout
 title: Rank Up Push (7 days)
-permalink: /7d_rank_up_push/
+permalink: /7d_rankup_push/
 ---
 
 # Rank Up Push (7 days)

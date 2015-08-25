@@ -8,6 +8,7 @@ image: sneak-preview.jpg
 ---
 
 #### 2015/08/17 PREVIEW - Upcoming Balance Changes.
+#### 2015/08/20 UPDATE: These changes have been updated and are now live!
 
 #### Overview.
 This batch of character changes and updates is aimed to bring a few characters up on the power curve and to fix several issues that players have experienced during gameplay, particularly when fighting in Alliance Quests. Bringing Armor Break, Regeneration, and Unstoppable in line with other effects is a major focus, in particular when used by the AI. Community feedback has been very helpful, and you may even find some of your ideas from our previous Character Balance Preview show up below. Some upcoming changes, such as those for Captain America, are more significant and will be coming at a later date.
@@ -15,15 +16,22 @@ This batch of character changes and updates is aimed to bring a few characters u
 #### Captain America WW2:
 - Fixed bug causing his Hero Rating to be artificially high
 
-There was a bug causing his Hero Rating to be slightly higher than it should have been. It now appears correctly. Please note, this display fix does not affect his abilities or stats; he’s still as strong as ever!
+There was a bug causing his Hero Rating to be slightly higher than it should have been. It now appears correctly. 
+NOTE: This display fix does not affect his abilities or stats.
+
+#### Black Panther:
+- All Bleed abilities now stack
+
+This change improves the damage potential of Black Panther's Special 3 by increasing the number of Bleed events, and solidifies Black Panther as one of the most powerful Bleed-wielders.
 
 #### Deadpool:
 - All regen amounts linked to the Power Meter
 - Reduced 4-Star Deadpool's Maximum Health by 9% (no change to 2- and 3-Star versions)
-- Increased the Bleed effectiveness on Hold Up (Special 3) as you Rank Up
+- Increased Attack by 3% (all versions)
+- Increased the Bleed effectiveness on Hold Up (Special 3) as you Rank
+- Increased overall Bleed effectiveness
 
 Deadpool’s base Health, when combined with his regenerative abilities, made him difficult to fight against. He’s now more vulnerable to burst damage and Power Drain effects, but still has the option to trade some damage from using Special Attacks in order to play defensively and heal up. Overall, these changes shift some his power into offense, suitable for the merc with the mouth. 
-NOTE: While at low Power, the amount Regenerated is lower than before. While at high Power, Regeneration amounts are greater than before.
 
 #### Daredevil:
 - Improved Radar Sense to allow him to Evade more types of attacks
@@ -55,8 +63,8 @@ Unlike the Iron Men, Iron Fist’s repeated, focused strikes are more about stac
 - Unstoppable now triggers when activating a special attack
 - Unstoppable duration now scales up as signature level increases
 
-To recap the message above: Unstoppable has always been a very powerful ability within the contest, but it’s always been extremely defender biased and most often used more effectively by the AI rather than the player. This change ensures that both the players and their opponents get a chance to use Unstoppable and get to feel the excitement of shrugging off attacks.
-NOTE: The Mystic Bosses found in Alliance Quests are also affected by this change, so we recommend planning around their Special Attacks. No longer will their Unstoppable catch you off guard.
+To recap the message above: Unstoppable has always been a powerful ability within the contest, but it’s always been defender biased and most often used more effectively by the AI rather than the player. This change ensures that both the players and their opponents get a chance to use Unstoppable.
+NOTE: The Mystic Bosses found in Alliance Quests are also affected by this change, so we recommend planning around their Special Attacks.
 
 #### Magneto:
 - Increased the reduction from Refraction
@@ -66,12 +74,14 @@ Feedback from the community felt that Magneto’s Refraction ability is underpow
 
 #### Rocket Raccoon:
 - Fixed a bug that prevented his Signature Ability “Furocity” from scaling correctly
+- Armor Break now removes Armor Up
 
 A little more bark and a little more bite...er, is that right? What does the Raccoon say? He’s much more of an offensive force than ever before...don’t say we didn’t warn you!
 
 #### Spider-Man:
 - Armor Break now also removes Armor Up
 - Slightly reduced the effectiveness of Armor Break
+- Weakness now stacks up to 2 times
 
 Well wobble my webs, yet another Champion with Armor Break. You know the drill: Thwips and Pows are a little less Pow-y and a little more Thwip-y. Or was it less Thwip-y and more Pow-y? Well, one thing’s for sure: Spidey has a new responsibility.
 
@@ -79,7 +89,7 @@ Well wobble my webs, yet another Champion with Armor Break. You know the drill: 
 - Armor Break now also removes Armor Up
 - Slightly reduced the effectiveness of Armor Break
 
-The heavy artillery shells fired during War Machine’s Shoulder Artillery and Heavy Ordnance special attacks now remove one instance of Armor Up when they hit, tearing through enemy Armor even more.
+The heavy artillery shells fired during War Machine’s Shoulder Artillery and Heavy Ordnance special attacks now remove one instance of Armor Up when they hit.
 
 #### Wolverine:
 - Reduced maximum Health by 5%
@@ -89,7 +99,7 @@ The heavy artillery shells fired during War Machine’s Shoulder Artillery and H
 - Wolverine’s Bleed ability can now stack
 - Wolverine’s Primal Rage (Special 3) now causes bleed
 
-These changes aim to stay true to Wolverine’s regenerative powers, but even the playing field between attackers and defenders. Attacking with Wolverine now sees a greater benefit of Regeneration, which was previously extremely defender-bias; Regeneration triggers across the board are now much more consistent. We also amped up his Bleed by allowing it to stack, and added a new Bleed trigger to Primal Rage (Special 3).
+These changes aim to stay true to Wolverine’s regenerative powers, but even the playing field between attackers and defenders. Attacking with Wolverine now sees a greater benefit of Regeneration, which was previously extremely defender-bias; Regeneration triggers across the board are now much more consistent. We also amped up his Bleed by allowing it to stack, and added a new Bleed trigger to Primal Rage.
 
 **Special Note:** Because of the large change this represents, Realm of Legends Wolverine will still use the old system of regeneration.
 

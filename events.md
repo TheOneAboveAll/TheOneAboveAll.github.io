@@ -24,11 +24,13 @@ permalink: /events/
 * Saturday - [Crystal Rush]({{ site.baseurl }}/crystal_rush) - 500 points
 * Sunday - [Arena Wins]({{ site.baseurl }}/arena_wins) - 500 points
 
-* Extra on Saturday - [Defeat Ultron]({{ site.baseurl }}/defeat_ultron)
+## NEW Daily Event Schedule
+* Saturday - [Defeat Ultron]({{ site.baseurl }}/defeat_ultron)
+* Sunday - Level Up
 
 ## 3 days Events
 * [Completion]({{ site.baseurl }}/3d_completion)
-* Rank Up Push
+* [Rank Up Push]({{ site.baseurl }}/3d_rankup_push)
 * [Arena Combat]({{ site.baseurl }}/3d_arena_combat)
 * [Crystal Crash]({{ site.baseurl }}/3d_crystal_crash)
 * [Perfect Series]({{ site.baseurl }}/3d_perfect_series)
