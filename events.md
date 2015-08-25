@@ -26,7 +26,8 @@ permalink: /events/
 
 ## NEW Daily Event Schedule
 * Saturday - [Defeat Ultron]({{ site.baseurl }}/defeat_ultron)
-* Sunday - Level Up
+* Sunday - [Level Up]({{ site.baseurl }}/level_up)
+* Monday - [Alliance Brawl]({{ site.baseurl }}/alliance_brawl)
 
 ## 3 days Events
 * [Completion]({{ site.baseurl }}/3d_completion)
