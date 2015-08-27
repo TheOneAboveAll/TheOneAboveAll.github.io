@@ -28,6 +28,8 @@ permalink: /events/
 * Saturday - [Defeat Ultron]({{ site.baseurl }}/defeat_ultron)
 * Sunday - [Level Up]({{ site.baseurl }}/level_up)
 * Monday - [Alliance Brawl]({{ site.baseurl }}/alliance_brawl)
+* Tuesday - [Draw Duplicates]({{ site.baseurl }}/draw_duplicates)
+* Wednesday - [Node Removal]({{ site.baseurl }}/node_removal)
 
 ## 3 days Events
 * [Completion]({{ site.baseurl }}/3d_completion)
